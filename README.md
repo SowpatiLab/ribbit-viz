@@ -1,6 +1,6 @@
 # ribbit-viz
 
-A lightweight application to visualise the tandem repeat regions reported by ribbit.
+A lightweight application to visualise the tandem repeat regions reported by [ribbit](https://github.com/sowpatilab/ribbit).
 
 ## Prerequisites
 - Node.js 14+ (or LTS)
